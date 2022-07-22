@@ -1,5 +1,5 @@
 # node-cron-test-app
-Node Cron Test App
+Test your node-cron schedule pattern using the minimum setup
 
 ## Usage
 
